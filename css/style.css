@@ -91,7 +91,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/5652006.jpg') no-repeat;
+    background: url("https://github.com/1-NiharRanjan/portfolio.github.io/blob/da2cca4b9848a10346895f548cd348b285d73501/images/5652006.jpg")) no-repeat;
     background-size: cover;
     background-position: center;
 }
